@@ -20,7 +20,7 @@ I'm a Computer Science student at the Federal University of Rio de Janeiro (UFRJ
 
 ## ⚡ When I'm Not Coding
 - 🏖️ Chilling at Rio's beaches
-- ⚽ Cheering for Flamengo (Vai pra cime deles Mengoo! ❤️🖤)
+- ⚽ Support Flamengo (Vai pra cima deles Mengoo! ❤️🖤)
 
 ## Let's connect and create something cool together! 🤝
 - [LinkedIn](https://www.linkedin.com/in/vitor-guerra-459225137/0)
