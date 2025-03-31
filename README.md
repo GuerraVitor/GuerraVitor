@@ -23,4 +23,5 @@ I'm a Computer Science student at the Federal University of Rio de Janeiro (UFRJ
 - ⚽ Cheering for Flamengo (Vamos, Mengãoooo! ❤️🖤)
 
 ## Let's connect and create something cool together! 🤝
+- [LinkedIn](https://www.linkedin.com/in/vitor-guerra-459225137/0)
 
