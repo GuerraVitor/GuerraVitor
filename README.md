@@ -7,14 +7,13 @@ I'm a Computer Science student at the Federal University of Rio de Janeiro (UFRJ
 - Web Development 🌐 – Working with Django and exploring frontend
 - Currently Studying 📚 – TypeScript, Django, and React to become a better full-stack developer
 
-<p align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux, python, django, c, js" />
-</a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,python,django,c,js,git,mysql,vim" />
+  </a>
 </p>
 
-
-## 🚀 Goalshttps://github.com/GuerraVitor/GuerraVitor/blob/main/README.md
+## 🚀 Goals:
 - Contribute to meaningful open-source projects
 - Level up my TypeScript and React skills
 - Create web apps that people actually find useful
@@ -25,4 +24,3 @@ I'm a Computer Science student at the Federal University of Rio de Janeiro (UFRJ
 
 ## Let's connect and create something cool together! 🤝
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
