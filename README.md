@@ -7,6 +7,13 @@ I'm a Computer Science student at the Federal University of Rio de Janeiro (UFRJ
 - Web Development 🌐 – Working with Django and exploring frontend
 - Currently Studying 📚 – TypeScript, Django, and React to become a better full-stack developer
 
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux, python, django, c, js" />
+  </a>
+</p>
+
+
 ## 🚀 Goals
 - Contribute to meaningful open-source projects
 - Level up my TypeScript and React skills
