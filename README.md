@@ -1,6 +1,6 @@
 # Hey there! 👋, my name is Vitor Guerra. 
 
-I'm a Computer Science student at the Federal University of Rio de Janeiro (UFRJ) 🎓who enjoys learn about about building web applications, automating repetitive tasks, and experimenting with new tech ideas.
+I'm a Computer Science student at the Federal University of Rio de Janeiro (UFRJ) 🎓who enjoys learn about building web applications, automating repetitive tasks, and experimenting with new tech ideas.
 
 ## 🛠️ Tech Stack & Skills
 - Python 🐍 – Built automation tools for capital markets
