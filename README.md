@@ -3,9 +3,9 @@
 I'm a Computer Science student at the Federal University of Rio de Janeiro (UFRJ) 🎓who enjoys learn about building web applications, automating repetitive tasks, and experimenting with new tech ideas.
 
 ## 🛠️ Tech Stack & Skills
-- Python 🐍 – Built automation tools for capital markets
+- Python 🐍 – Built automation tools
 - Web Development 🌐 – Working with Django and exploring frontend
-- Currently Studying 📚 – TypeScript, Django, and React to become a better full-stack developer
+- Currently Studying 📚 – TypeScript, Django, and React to become a full-stack developer
 
 <p align="left">
   <a href="https://skillicons.dev">
