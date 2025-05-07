@@ -9,7 +9,7 @@ I'm a Computer Science student at the Federal University of Rio de Janeiro (UFRJ
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,git,linux,mysql,c,cpp,"/>
+    <img src="https://skillicons.dev/icons?i=python,django,react,git,linux,mysql,"/>
   </a>
 </p>
 
