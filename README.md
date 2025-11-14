@@ -1,25 +1,23 @@
 # Hey there! 👋, my name is Vitor Guerra. 
 
-I'm a Computer Science student at the Federal University of Rio de Janeiro (UFRJ) 🎓who enjoys learn about building web applications, automating repetitive tasks, and experimenting with new tech ideas.
+I'm a Software Engineer 💻 and a Software Engineering student at 42 🎓, and also a Computer Science student at the Federal University of Rio de Janeiro (UFRJ)🎓. I am currently focused on studying web applications, data scraping, and various aspects of data science and data analysis.
 
 ## 🛠️ Tech Stack & Skills
-- Python 🐍 – Built web aplications and automation tools 
-- Web Development 🌐 – Working with Django and exploring Rails
-- Currently Studying 📚 – Rails, Django, Web services
+
+ - C/C++
+ - Python 🐍
+ - Django
+ - React ⚛️
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,git,javascript,react,linux,mysql,postgresql"/>
+    <img src="https://skillicons.dev/icons?i=python,django,c,cpp,git,javascript,react,linux,mysql,postgresql"/>
   </a>
 </p>
 
-## 🚀 Goals:
-- Level up my developer skills
-- Create web apps that people actually find useful
-
 ## ⚡ When I'm Not Coding
-- 🏖️ Chilling at Rio's beaches
-- ⚽ Support Flamengo (E no Rio não tem outro igual... ❤️🖤)
+- 🏖️ Chilling at beach
+- ⚽ Not chilling watching Flamengo ❤️🖤
 
 ## Let's connect and create something cool together! 🤝
 - [LinkedIn](https://www.linkedin.com/in/vitor-guerra-459225137/0)
