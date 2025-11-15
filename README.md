@@ -1,13 +1,13 @@
 # Hey there! 👋, my name is Vitor Guerra. 
 
-I'm a Software Engineer 💻 and a Software Engineering student at 42 🎓, and also a Computer Science student at the Federal University of Rio de Janeiro (UFRJ)🎓. I am currently focused on studying web applications, data scraping, and various aspects of data science and data analysis.
+I'm a Software Engineering student at 42 and a Computer Science student at the Federal University of Rio de Janeiro (UFRJ). I am currently focused on studying web applications and various aspects of data science and data analysis.
 
 ## 🛠️ Tech Stack & Skills
 
  - C/C++
- - Python 🐍
+ - Python 
  - Django
- - React ⚛️
+ - React 
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -19,6 +19,6 @@ I'm a Software Engineer 💻 and a Software Engineering student at 42 🎓, and 
 - 🏖️ Chilling at beach
 - ⚽ Not chilling watching Flamengo ❤️🖤
 
-## Let's connect and create something cool together! 🤝
+## Contact
 - [LinkedIn](https://www.linkedin.com/in/vitor-guerra-459225137/0)
 - mail: vitorhugoguerraguimaraes@gmail.com
