@@ -1,4 +1,4 @@
-# Hey there! 👋, my name is Vitor Guerra. 
+# Hey! 👋, my name is Vitor. 
 
 I'm a Software Engineering student at 42 and a Computer Science student at the Federal University of Rio de Janeiro (UFRJ). I am currently focused on studying web applications and various aspects of data science and data analysis.
 
