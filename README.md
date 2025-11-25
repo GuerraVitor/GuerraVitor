@@ -1,6 +1,8 @@
 # Hey! 👋, my name is Vitor. 
 
-I'm a Software Engineering student at 42 and a Computer Science student at the Federal University of Rio de Janeiro (UFRJ). I am currently focused on studying web applications and various aspects of data science and data analysis.
+I am currently studying Software Engineering at 42 and Computer Science at UFRJ.
+
+I have an interest in software development, working on projects that range from Web Applications to Data Science. I mainly use Python, C, and C++ to build solutions and analyze data.
 
 ## 🛠️ Tech Stack & Skills
 
