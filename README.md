@@ -6,9 +6,9 @@ I have an interest in software development, working on projects that range from 
 
 ## 🛠️ Tech Stack & Skills
 
- - C/C++
  - Python 
  - Django
+ - C/C++
  - React 
 
 <p align="left">
