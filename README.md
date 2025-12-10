@@ -2,7 +2,7 @@
 
 I am currently studying Software Engineering at 42 and Computer Science at UFRJ.
 
-I have an interest in software development, working on projects that range from Web Applications to Data Science. I mainly use Python, C, and C++ to build solutions and analyze data.
+I'm a Computer Science student at UFRJ (Federal University of Rio de Janeiro) and a Software Engineering student at 42 Rio, focused on web development, data, and automation. I mainly use Python, C, and C++ to build solutions and analyze data.
 
 ## 🛠️ Tech Stack & Skills
 
