@@ -1,6 +1,8 @@
 # Hey! 👋, my name is Vitor. 
 
+<p>
 I'm a Computer Science student at UFRJ (Federal University of Rio de Janeiro) and a Software Engineering student at 42 Rio, focused on web development, data, and automation. I mainly use Python, C, and C++ to build solutions and analyze data.
+</p>
 
 ## 🛠️ Tech Stack & Skills
 
