@@ -1,36 +1,37 @@
 # Hi there, I'm Vitor Hugo Guerra 👋
 
-### Software Engineer | Backend & Data Pipelines
+### Software Developer
 
 🎓 B.S. Computer Science @ UFRJ (Expected 2027)  
 💻 Software Engineering @ 42 Rio  
-🌎 Based in Rio de Janeiro, Brazil | Open to Remote (US/UK)  
+🌎 Based in Rio de Janeiro, Brazil  
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a software developer continuously learning and deepening my skills in **Python** and **Mobile development**. Currently, I work on backend systems and data extraction pipelines using Django and Scrapy at **Fiocruz**, while also building Android applications and integrating REST APIs at **Mobits**.
+I am a software developer focused on building functional systems and solving practical problems. Currently, I work on data extraction pipelines and backend automation and develop Android applications. 
 
-My main focus right now is on strengthening my foundation in software engineering. I enjoy solving practical problems and am constantly studying to improve my knowledge of data-driven systems, clean code, and Linux infrastructure.
+My focus is on strengthening my software engineering foundation, writing clean code, and working with data-driven systems.
 
 ---
 
 ## 🔭 What I'm Currently Working On
 
-- **🕷️ Data Engineering:** Architecting highly concurrent web crawlers to harvest, bypass dynamic JS, and structure complex data into automated JSON pipelines.
-- **⚙️ Backend Development:** Designing REST APIs using **Django & DRF**, containerized with Docker and backed by PostgreSQL.
-- **🐧 Infrastructure:** Hardening Linux servers, managing LVM/LUKS encryption, and automating monitoring (Bash/Cron) as part of my 42 Network curriculum.
-- **📱 Mobile Integration:** Developing Android apps (Java/Kotlin) with a strong focus on seamless backend data synchronization.
+- **Data Extraction & Automation:** Building web crawlers and automated pipelines to gather and structure complex data using **Python**.
+- **Mobile Development:** Developing and optimizing **Android** applications using **Java**, focusing on seamless API integrations.
+- **Backend Systems:** Designing REST APIs and managing database architectures to support applications.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Main Tech Stack
 
-**Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Backend** ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+* **Python** (Web Crawling, Automation, Backend)
+* **Java & Android SDK** (Mobile Development)
 
 ---
 
