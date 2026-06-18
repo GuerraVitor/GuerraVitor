@@ -2,7 +2,7 @@
 
 ### Software Developer
 
-🎓 B.S. Computer Science @ UFRJ
+🎓 B.S. Computer Science @ UFRJ   
 💻 Software Engineering @ 42 Rio  
 🌎 Based in Rio de Janeiro, Brazil  
 
