@@ -10,9 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I am a software developer focused on building functional systems and solving practical problems. Currently, I work on data extraction pipelines and backend automation and develop Android applications. 
-
-My focus is on strengthening my software engineering foundation, writing clean code, and working with data-driven systems.
+Software Developer specializing in backend automation, data pipelines, and native Android architecture. Experienced in building scalable web scrapers, asynchronous bots, and mobile applications. Proven track record in optimizing memory management, orchestrating containerized RESTful ecosystems, and delivering technical solutions that eliminate operational bottlenecks.
 
 ---
 
